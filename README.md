@@ -1,16 +1,32 @@
 # projeto_ambisis
 
-A new Flutter project.
+Tecnologias utilizadas com suas respectivas versões:
 
-## Getting Started
+ --> syncfusion_flutter_charts: ^21.1.37
+  -> Link: https://pub.dev/packages/syncfusion_flutter_charts
+ --> mobx: ^2.1.4
+  -> Link: https://pub.dev/packages/mobx
+ --> flutter_mobx: ^2.0.6+5
+  -> Link: https://pub.dev/packages/flutter_mobx
+ --> sqflite: ^2.2.6
+  -> Link: https://pub.dev/packages/sqflite
+ 
+ Orientações de instalação e execução em ambiente local:
+ --> Apenas colocar as versões em: "dependencies" na pasta "pubspec.yalm"
+ 
+ Exemplo: 
+ 
+ dependencies:
+  flutter:
+    sdk: flutter
+  syncfusion_flutter_charts: ^21.1.37
+  mobx: ^2.1.4
+  flutter_mobx: ^2.0.6+5
+  sqflite: ^2.2.6
+  
+  dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^2.1.11
+  mobx_codegen: ^2.0.7
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
