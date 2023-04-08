@@ -9,7 +9,6 @@ Tecnologias utilizadas com suas respectivas versões:
   -> Link: https://pub.dev/packages/mobx
   
  --> flutter_mobx: ^2.0.6+5
- 
   -> Link: https://pub.dev/packages/flutter_mobx
   
  --> sqflite: ^2.2.6
