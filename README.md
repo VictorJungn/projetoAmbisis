@@ -34,6 +34,7 @@ Tecnologias utilizadas com suas respectivas versões:
   --------------------------------------------
   
   dev_dependencies:
+  
   flutter_test:
     sdk: flutter
     
