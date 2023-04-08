@@ -31,6 +31,8 @@ Tecnologias utilizadas com suas respectivas versões:
   
   sqflite: ^2.2.6
   
+  --------------------------------------------
+  
   dev_dependencies:
   flutter_test:
     sdk: flutter
